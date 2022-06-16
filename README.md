@@ -60,7 +60,7 @@ _16/04/2021_
 ## GSR bracelet - electro dermal activity accusation prototype
 | Sensor assembly | Bracelet | Complete system |
 | ----------- | ----------- | -- |
-| ![none](img\20201101_143231.jpg "Sensor assembly") | ![none](img\20201105_010542.jpg "Bracelet") | ![none](img\20201129_151416.jpg "Complete system") |
+| ![none](img/20201101_143231.jpg "Sensor assembly") | ![none](img/20201105_010542.jpg "Bracelet") | ![none](img/20201129_151416.jpg "Complete system") |
 
 _05/11/2020_
 **What?**
@@ -77,7 +77,7 @@ _05/11/2020_
 * Client was highly pleased with design and deployed the prototype for further R&D
 
 ## Shop vac dust separator
-![none](img\20191116_033458.jpg "Bracelet")
+![none](img/20191116_033458.jpg "Bracelet")
 _01/02/2015_
 **What?**
 * Dust separator for existing shop vacuum cleaner
@@ -92,7 +92,7 @@ _01/02/2015_
 * Sucking power maintained for 10x longer over unmodified vacuum cleaner  
 
 ## Bicycle front cargo rack
-![none](img\20211211_142359.jpg "Bracelet")
+![none](img/20211211_142359.jpg "Bracelet")
 _11/12/2021_
 **What?**
 * Front cargo rack for bicycle fork
@@ -108,7 +108,7 @@ _11/12/2021_
 * Cutouts in sheet metal serve both functional and esthetic purposes  
 
 ## Shade sails 
-![](img\20220413_170401.jpeg "Shade Sails")
+![](img/20220413_170401.jpeg "Shade Sails")
 _10/07/2020_
 **What?**
 * Covering a 50 sqm rooftop with shade sails
@@ -124,7 +124,7 @@ _10/07/2020_
 * high shade coverage thanks to low profile tensioners and vertical wind braker curtins
 
 ## Electric hoist winch
-![none](img\crane.jpg "boom crane")
+![none](img/crane.jpg "boom crane")
 _11/12/2021_
 **What?**
 * A reliable mean to lift equipment up to the roof of the house from the garden level to a hight of 10 meters
@@ -140,7 +140,7 @@ _11/12/2021_
 * Passed strain test of x4 of the required payload (250kg) 
 
 ## Work logbook
-![](img\logbook0.jpg "Logbook")
+![](img/logbook0.jpg "Logbook")
 _01/02/2018_
 **What?**
 * A task management tool for teamwork
@@ -158,7 +158,7 @@ _01/02/2018_
 _11/12/2014_
 |Option A| Option B|
 |---|---|
-|![none](img\Sketchup0.jpg)|![none](img\Sketchup1.jpg)|
+|![none](img/Sketchup0.jpg)|![none](img/Sketchup1.jpg)|
 
 **What?**
 * Create a simulation of a small apartment from building plans
@@ -177,7 +177,7 @@ _11/12/2014_
 _05/03/2021_
 |Circuit design|Mockup|Final product|
 |--|--|--|
-|![](img\RGB_nightlight_internal.jpg "Bracelet")|![](img\RGB_night_light_mocup.jpg "Bracelet")|![](img\RGB_nightlights.jpg "Bracelet")|
+|![](img/RGB_nightlight_internal.jpg "Bracelet")|![](img/RGB_night_light_mocup.jpg "Bracelet")|![](img/RGB_nightlights.jpg "Bracelet")|
 **What?**
 * Create an awesome gift for my 2 & 5 year old nice
 * A night light suitable for a toddler to operate 
@@ -197,7 +197,7 @@ _05/03/2021_
 _30/04/2022_
 | Leads attached to motherboard | Reading bios dump|
 |--|--|
-|![](img\Leads_on_motherboards.jpg )|![]( img\Reading_bios_dump.jpg )|
+|![](img/Leads_on_motherboards.jpg )|![]( img/Reading_bios_dump.jpg )|
 **What?**
 * Recovering a bios password of a laptop
 * Main challenge - bios chip is WSON form factor
