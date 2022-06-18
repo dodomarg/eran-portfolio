@@ -1,11 +1,11 @@
 # Projects
 
-- [Arduino and electronics](# Arduino and electronics)
-- [3D modeling](# 3D modeling)
-- [Metalworking](# Metalworking)
-- [Woodworking](# Woodworking)
-- [General Product design](# General Product design)
-- [Office Suit](# Office Suit)
+- [Arduino and electronics](#arduino-and-electronics)
+- [3D modeling](#3d-modeling)
+- [Metalworking](#metalworking)
+- [Woodworking](#woodworking)
+- [General Product design](#general-product-design)
+- [Office Suit](#office-suit)
 
 # Arduino and electronics
 
