@@ -59,15 +59,15 @@ _05/03/2021_
 |![](img/RGB_nightlight_internal.jpg "Internals")|![](img/RGB_night_light_mocup.jpg "Mockup")|![](img/RGB_nightlights.jpg "Finished product")|
 
 **What?**
-* Create an awesome gift for my 2 & 5 year old nice
-* A night light suitable for a toddler to operate 
+* Create an awesome gift for my 2 & 5 year old nieces
+* A easy to operate 
 * Interactive light color and intensity control
 * A rustic design
 
 **How?**
-* Arduino, WS2812B led's and 3.3v to 5v logic level shifter.
-* Linear and Rotational potentiometers for control in HSL pallet controlling hue and luminance.
-* Hand made woden enclosure and hand engraved plexiglass.
+* Arduino, WS2812B led's and 3.3v to 5v logic level shifter
+* Linear and Rotational potentiometers for control in HSL pallet controlling hue and luminance
+* Hand made woden enclosure and hand engraved plexiglass
 
 **Results**
 * Best uncle of 2021 award!
