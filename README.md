@@ -78,7 +78,7 @@ _30/04/2022_
 
 ## Plastic enclosure design
 
--21/06/2022-
+_21/06/2022_
 
 |1st Rev.| 2nd Rev. topology optimization| 2nd Rev. Render|
 |--|--|--|
