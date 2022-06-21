@@ -28,28 +28,6 @@ _05/11/2020_
 **Results**
 * Client was highly pleased with design and deployed the prototype for further R&D
 
-# 3D modeling
-
-## Interior design simulation
-
-_11/12/2014_
-
-|Option A| Option B|
-|---|---|
-|![none](img/Sketchup0.jpg "A")|![none](img/Sketchup1.jpg "B")|
-
-**What?**
-* Create a simulation of a small apartment from building plans
-* Explore different design concepts and layouts.
-
-**How?**
-* Sketchup modeling
-* Extracting sizes from 2D scale construction plans
-
-**Results**
-* A powerful tool for decision making prior to construction.
-
-
 ## RGB night light
 
 _05/03/2021_
@@ -95,6 +73,55 @@ _30/04/2022_
 **Results**
 * Password was obtained after 6 hours of work 
 * Device was successfully rebooted and put back to work 
+
+# 3D modeling
+
+## Plastic enclosure design
+
+-21/06/2022-
+
+|1st Rev.| 2nd Rev. topology optimization| 2nd Rev. Render|
+|--|--|--|
+|![](img/Scale%20enclosure%201%20v14%20render.png "Enclosure 1st Rev.")|![](img/Scale%20enclosure%20topology%20optimization.PNG "Enclosure 2nd Rev. topology optimization")|![](img/Scale%20enclosure%202%20render.png "Enclosure 2nd Rev. Render")|
+
+**What?**
+* Designing a novel scale incorporating some smart features! 
+* High weight limit of 10kg
+* Design and crate an attractive enclosure
+* General design inspiration - 90' Mazda MX-5
+
+**How?**
+* Iterative design
+* Fusion 360 CAD
+* Static stress simulations 
+
+**Result**
+* Design exceeding a safety factor of 2
+* Sent out for production
+* Projected cost reduced by 50% over design iterations 
+
+
+
+
+## Interior design simulation
+
+_11/12/2014_
+
+|Option A| Option B|
+|---|---|
+|![none](img/Sketchup0.jpg "A")|![none](img/Sketchup1.jpg "B")|
+
+**What?**
+* Create a simulation of a small apartment from building plans
+* Explore different design concepts and layouts.
+
+**How?**
+* Sketchup modeling
+* Extracting sizes from 2D scale construction plans
+
+**Results**
+* A powerful tool for decision making prior to construction.
+
 
 # Metalworking
 
