@@ -6,6 +6,7 @@
 - [Woodworking](#woodworking)
 - [General Product design](#general-product-design)
 - [Office Suit](#office-suit)
+- [Data analytics](#data-analitics)
 
 # Arduino and electronics
 
@@ -257,6 +258,25 @@ _01/02/2015_
 
 # Office Suit 
 
+## Maritime sector M&A report
+
+_08/04/2019_
+![](img/Acquisitions%20in%20the%20Marine%20Industry.png "Visualized M&A data")
+
+**What?**
+* Drive interest in the maritime sector
+* M&A research in the maritime industry
+* Create a compelling slide for sharing on social media
+
+**How?**
+* Search engines, advance searches and search alerts
+* Excel for data analytics
+* Power Point for creating visual
+
+**Result**
+* Providing the customer with quality knowledge and new insights
+* High engagement with the publications online
+
 ## Work logbook
 
 _01/02/2018_
@@ -274,3 +294,4 @@ _01/02/2018_
 **Results**
 * An effective tool for the task
 * Adoption of a similar tool by other departments
+
