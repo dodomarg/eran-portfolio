@@ -1,5 +1,5 @@
 # Projects
-
+- [Data and Python](#data-and-python)
 - [Arduino and electronics](#arduino-and-electronics)
 - [3D modeling](#3d-modeling)
 - [Metalworking](#metalworking)
@@ -7,6 +7,25 @@
 - [General Product design](#general-product-design)
 - [Office Suit](#office-suit)
 - [Data analytics](#data-analitics)
+
+# Data and Python
+### Pima diabetes
+![none](img/pima-diabetes.PNG)
+
+_19/9/2019_
+**What?**
+* Creating a predictive model for diabetes in the Pima community
+
+**How?**
+* Dataset from Kaggle
+* Python tools - jupyter lab, pandas, sklearn, seaborn
+* A variety of models and methods
+
+**Results**
+* Model accuracy of 0.813
+* Reaching unique conclusions regarding the subjects of the data
+
+take a look at the [github page of the project](https://github.com/dodomarg/pima-diabetes)
 
 # Arduino and electronics
 
