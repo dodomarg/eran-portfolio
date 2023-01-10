@@ -10,7 +10,7 @@
 
 # Data and Python
 ### Pima diabetes
-![none](img/pima-diabetes.PNG)
+![none](img/pima-diabetes.PNG "Pima Visualization")
 
 _19/9/2019_
 **What?**
